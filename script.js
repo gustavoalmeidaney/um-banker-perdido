@@ -1,3 +1,5 @@
-body {
-   background-color:rgb(24, 11, 209) ;
-}
+const avanca = document.querySelectorAll('.btn-proximo');
+
+avanca.forEach(Button =>{
+   Button.addEventListener('click', function)
+})
